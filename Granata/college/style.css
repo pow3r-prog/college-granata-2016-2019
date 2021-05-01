@@ -1,0 +1,9 @@
+/* body {
+    background-color: grey;
+} */
+.info {
+    height: 300px;
+    width: 300px;
+    position: relative;
+    margin-top: 300px;
+}

@@ -1,0 +1,29 @@
+body{
+    font: 1em/1.6em sans-serif;
+    color: #353535;
+    background-color: rgba(0, 0, 0, 0.671);
+}
+.main {
+    max-width: 900px;
+    margin: 20px auto;
+}
+.text {
+    position: absolute;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.7);
+    width: 100%;
+    color: white;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    padding: 10px 0;
+}
+.zag{
+    margin: 0;
+    padding: 0;
+}
+.descrip {
+    margin: 0;
+    padding: 10px;
+}
+
+  
